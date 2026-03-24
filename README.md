@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 L’p fxuuhqwoh zrunlqj rq fbehuvhfxulwb surmhfwv
+
 👯 L’p orrnlqj wr frooderudwh rq FWI dqg hwklfdo kdfnlqj
+
 🤝 L’p orrnlqj iru khos zlwk shqhwudwlrq whvwlqj
 🌱 L’p ohduqlqj fubswrjudskb dqg qhwzrun vhfxulwb
 💬 Dvn ph derxw vhfxulwb wrrov

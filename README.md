@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Learning and building projects related to cybersecurity, including basic network security and vulnerability analysis.<br><br>👯 I’m looking to collaborate on<br>Cybersecurity projects, ethical hacking labs, and CTF (Capture The Flag) challenges.<br><br>🤝 I’m looking for help with<br>Understanding advanced penetration testing, malware analysis, and real-world security practices.<br><br>🌱 I’m currently learning<br>Ethical hacking, network security, cryptography, and tools like Wireshark, Nmap, and Metasploit.<br><br>💬 Ask me about<br>Cybersecurity basics, ethical hacking concepts, and security tools.<br><br>⚡ Fun fact<br>I love finding vulnerabilities and thinking like a hacker to secure systems better!<br>
+🔭 L’p fxuuhqwoh zrunlqj rq fbehuvhfxulwb surmhfwv
+👯 L’p orrnlqj wr frooderudwh rq FWI dqg hwklfdo kdfnlqj
+🤝 L’p orrnlqj iru khos zlwk shqhwudwlrq whvwlqj
+🌱 L’p ohduqlqj fubswrjudskb dqg qhwzrun vhfxulwb
+💬 Dvn ph derxw vhfxulwb wrrov
+⚡ Ixq idfw: L wklqn olnh d kdehhu 🔐
+(Caesar Chipher-3)
 
 
 ## 🌐 Socials:
